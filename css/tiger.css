@@ -3,10 +3,6 @@
   font-family: 'sleek';
   src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
-/* 背景图片 */
-#web_bg {
-  /* 背景图像的地址（url括号里）  */
-  background: url(http://p1.qhimg.com/bdr/__85/t010dd47a31b53491b9.jpg);
   /* 背景图像不重复 */
   background-repeat: no-repeat;
   /* 背景图像大小 */
