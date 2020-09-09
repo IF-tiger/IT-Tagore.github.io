@@ -3,11 +3,6 @@
   font-family: 'sleek';
   src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
-  /* 背景图像不重复 */
-  background-repeat: no-repeat;
-  /* 背景图像大小 */
-  background-size: cover;
-}
 /* 又拍云图标缩放 */
 #tiger {
   transform: scale(0.7);
@@ -33,7 +28,7 @@
 }
 /* 主页文章列表 */
 #recent-posts > .recent-post-item {
-  background: rgba(255, 255, 255, 0.781);
+  background: rgba(255, 255, 255, 0.6);
 }
 /* 设置每个页面头部的背景颜色透明 */
 #page-header {
