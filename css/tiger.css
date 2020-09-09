@@ -3,6 +3,14 @@
   font-family: 'sleek';
   src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url('https://ittiger.top/%E5%8D%9A%E5%AE%A2%E8%83%8C%E6%99%AF%E5%9B%BE.jpg');
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
 /* 又拍云图标缩放 */
 #tiger {
   transform: scale(0.7);
