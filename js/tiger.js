@@ -1,8 +1,8 @@
 // 去除banner图
-var full_page = document.getElementsByClassName('full_page')
-if (full_page.length != 0) {
-  full_page[0].style.background = 'transparent'
-}
+// var full_page = document.getElementsByClassName('full_page')
+// if (full_page.length != 0) {
+//   full_page[0].style.background = 'transparent'
+// }
 
 // 设置页脚博主会动的心
 $(document).ready(function (e) {
