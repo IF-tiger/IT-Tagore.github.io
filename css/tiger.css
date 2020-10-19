@@ -3,6 +3,9 @@
   font-family: 'sleek';
   src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
+#toggle-sidebar {
+  bottom: 80px;
+}
 /* 又拍云图标缩放 */
 #tiger {
   transform: scale(0.9);
@@ -25,6 +28,8 @@
   font-family: 'sleek';
   color: #46daff;
   font-weight: 900;
+}
+.aplayer {
 }
 /* 主页文章列表 */
 #recent-posts > .recent-post-item {
@@ -324,7 +329,7 @@ p.shuoshuo_time {
 }
 /* end */
 
-.photos-btn-wrap {
+/* .photos-btn-wrap {
   border-bottom: 1px solid #e5e5e5;
   margin-bottom: 20px;
 }
@@ -338,4 +343,4 @@ p.shuoshuo_time {
   color: #08c;
   border: 1px solid #e5e5e5;
   border-bottom: 5px solid #fff;
-}
+} */
