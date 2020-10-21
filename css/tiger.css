@@ -16,9 +16,9 @@
   background: #8dfff1;
 }
 /* 面板颜色 */
-#aside_content .card-widget {
+/* #aside_content .card-widget {
   background: rgba(255, 255, 255, 0.6);
-}
+} */
 /* 头像转动速度 */
 .avatar-img {
   animation: avatar_turn_around 8s linear infinite;
@@ -29,12 +29,10 @@
   color: #46daff;
   font-weight: 900;
 }
-.aplayer {
-}
 /* 主页文章列表 */
-#recent-posts > .recent-post-item {
+/* #recent-posts > .recent-post-item {
   background: rgba(255, 255, 255, 0.6);
-}
+} */
 /* 设置每个页面头部的背景颜色透明 */
 #page-header {
   background-color: transparent;
@@ -65,13 +63,13 @@
 /*文章透明*/
 
 .layout_post > #post {
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.8);
 }
 /* 评论框  */
 
 .vwrap {
   box-shadow: 2px 2px 5px #bbb;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.8);
   border-radius: 8px;
   padding: 30px;
   margin: 30px 0px 30px 0px;
