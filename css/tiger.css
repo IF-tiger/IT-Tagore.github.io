@@ -1,8 +1,3 @@
-/* 字体 */
-@font-face {
-  font-family: 'sleek';
-  src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
-}
 #toggle-sidebar {
   bottom: 80px;
 }
