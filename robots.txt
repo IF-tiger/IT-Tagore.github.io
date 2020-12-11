@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /page/
+Disallow: /page/*.html
+User-agent: *
+Disallow: /page/
+Disallow: /page/*.html
+#Disallow politics
