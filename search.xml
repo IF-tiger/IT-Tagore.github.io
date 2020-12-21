@@ -97,13 +97,33 @@
     
     
     <entry>
-      <title>SAMSUNG官方系统root教程(玩机教程二)</title>
+      <title>SAMSUNG救砖(刷回官方)教程(玩机教程二)</title>
       <link href="/2020/12/03/SAMSUNG%E5%AE%98%E6%96%B9%E7%B3%BB%E7%BB%9Froot%E6%95%99%E7%A8%8B(%E7%8E%A9%E6%9C%BA%E6%95%99%E7%A8%8B%E4%BA%8C)/"/>
       <url>/2020/12/03/SAMSUNG%E5%AE%98%E6%96%B9%E7%B3%BB%E7%BB%9Froot%E6%95%99%E7%A8%8B(%E7%8E%A9%E6%9C%BA%E6%95%99%E7%A8%8B%E4%BA%8C)/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<blockquote><h2 id="hello-大家好-我是泰戈尔"><a href="#hello-大家好-我是泰戈尔" class="headerlink" title="hello,大家好,我是泰戈尔,"></a>hello,大家好,我是泰戈尔,</h2></blockquote><p>今天给星粉机油分享下三星手机救砖(刷官方固件)的教程。</p><p><img src= "/img/loading.gif" data-lazy-src="https://ittiger.top/%E6%96%87%E7%AB%A0%E5%A4%B4%E5%9B%BE.png"></p><h5 id="首先我们要明白什么样的场景下需要去执行救砖或者去刷回官方固件的操作，"><a href="#首先我们要明白什么样的场景下需要去执行救砖或者去刷回官方固件的操作，" class="headerlink" title="首先我们要明白什么样的场景下需要去执行救砖或者去刷回官方固件的操作，"></a>首先我们要明白什么样的场景下需要去执行救砖或者去刷回官方固件的操作，</h5><ul><li><p>当我们使用第三方ROM执行了某些骚操作的时候，↓↓↓</p></li><li><p>*当手机开不开机的时候(狗头保命!)</p><img src= "/img/loading.gif" data-lazy-src="https://www.mamecn.com/uploadfile/2019/1226/20191226060404265.png" alt="狗头保命" style="zoom:50%;" /></li><li><p>*在系统设置里执行恢复出厂设置</p></li><li><p>*当使用第三方recovery模式刷入基于更高版本的固件制作的ROM时</p></li><li><p>*手贱自己尝试更新magisk的zip文件</p></li><li><p>*当官方推送了重大的安卓版本或者固件更新的时候</p></li><li><p>*利用recovery模式刷入了来路不明或者版本不适配的模块</p></li><li><p>*利用magisk刷入了一些来路不明或者版本不适配的模块</p></li><li><p>*在刷入EdXposedManager框架的时候</p></li></ul><h5 id="以上就是总结的一些常见的场景"><a href="#以上就是总结的一些常见的场景" class="headerlink" title="以上就是总结的一些常见的场景"></a>以上就是总结的一些常见的场景</h5><p>当然,如果你还能以更奇葩的方式翻车,那……那我得给你竖大拇指啊!</p><p><img src= "/img/loading.gif" data-lazy-src="https://ittiger.top/%E5%A4%A7%E6%8B%87%E6%8C%87.jpg" alt="你真棒"></p><h5 id="为什么执行某些骚操作的时候会导致手机开不开机呢"><a href="#为什么执行某些骚操作的时候会导致手机开不开机呢" class="headerlink" title="为什么执行某些骚操作的时候会导致手机开不开机呢"></a>为什么执行某些骚操作的时候会导致手机开不开机呢</h5>]]></content>
       
       
+      <categories>
+          
+          <category> 三星Galaxy </category>
+          
+          <category> 玩机 </category>
+          
+          <category> Android </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 刷机教程 </tag>
+            
+            <tag> 救砖 </tag>
+            
+            <tag> 官方固件 </tag>
+            
+        </tags>
       
     </entry>
     
